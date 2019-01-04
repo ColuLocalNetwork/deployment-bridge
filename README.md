@@ -6,10 +6,9 @@ The POA Bridge allows users to transfer assets between two chains in the Ethereu
 
 **Bridge Elements**
 1. Deployment Playbooks. Configuration management instructions for validator nodes contained in this repository.
-2. [Bridge Smart Contracts](https://github.com/poanetwork/poa-bridge-contracts). Solidity contracts used to manage bridge validators, collect signatures, and confirm asset relay and disposal.
-3. [Token Bridge](https://github.com/poanetwork/token-bridge). The token bridge oracle written in NodeJS.
-4. [Bridge UI Application](https://github.com/poanetwork/bridge-ui). A DApp interface to transfer tokens and coins between chains.
-5. [Bridge Monitor](https://github.com/poanetwork/bridge-monitor). A tool for checking balances and unprocessed events in bridged networks.
+2. [Bridge Smart Contracts](https://github.com/ColuLocalNetwork/poa-bridge-contracts). Solidity contracts used to manage bridge validators, collect signatures, and confirm asset relay and disposal.
+3. [Token Bridge](https://github.com/ColuLocalNetwork/token-bridge). The token bridge oracle written in NodeJS.
+4. [Bridge UI Application](https://github.com/ColuLocalNetwork/bridge-ui). A DApp interface to transfer tokens and coins between chains.
 
 
 ## Playbooks Overview

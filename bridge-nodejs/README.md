@@ -13,7 +13,7 @@
 
 1. Clone this repository and go to the `bridge-nodejs` folder
 ```
-git clone https://github.com/poanetwork/deployment-bridge.git
+git clone https://github.com/ColuLocalNetwork/deployment-bridge.git
 cd bridge-nodejs
 ```
 2. Create the file `hosts.yml` from `hosts.yml.example`

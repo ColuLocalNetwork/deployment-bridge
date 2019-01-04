@@ -11,7 +11,7 @@
 ### Preparing configuration file
 1. Clone this repository and go to `upgradable-wo-parity` folder
 ```
-git clone https://github.com/poanetwork/deployment-bridge.git
+git clone https://github.com/ColuLocalNetwork/deployment-bridge.git
 cd upgradable-wo-parity
 ```
 
